@@ -1,0 +1,11 @@
+<html>
+  <body>
+    <h1>CatPhotoApp</h1>
+    <h2>Welcome to the Cat Photo Application</h2>
+    <h3>Features</h3>
+    <h4>Photo Gallery</h4>
+    <h5>Popular Cat Breeds</h5>
+    <h6>Less Common Cat Breeds</h6>
+  </body>
+</html>
+                                

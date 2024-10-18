@@ -1,0 +1,13 @@
+```html
+<html>
+  <body>
+    <h1>CatPhotoApp</h1>
+    <h2>Cat Photos</h2>
+    <h3>Welcome to the Cat Photo Application</h3>
+    <h4>Features</h4>
+    <h5>Photo Gallery</h5>
+    <h6>Popular Cat Breeds</h6>
+    <h6>Less Common Cat Breeds</h6>
+  </body>
+</html>
+```
